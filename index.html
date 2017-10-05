@@ -4,13 +4,19 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-    {% for current in site.data.current %}
+    {% assign current_date = site.time | date: '%Y%m%d' | times: 1 %}
+    {% assign events = site.data.current | sort: 'end_date' | where_exp: "item", "item.end_date >= current_date" %}
+    {% for event in events %}
       <li>
-        <h2><a href="{{current.url}}">{{ current.name }}</a></h2>
+        <h2><a href="{{event.url}}">{{ event.name }}</a></h2>
         <p>
-          <i class="fa fa-calendar"></i> {{ current.dates }} <i class="fa fa-map-marker"></i> {{ current.location }}
-          {% if current.twitter != nil %}<a href="https://www.twitter.com/{{current.twitter}}"><i class="fa fa-twitter"></i>{{current.twitter}}</a>{% endif %}
-          {% if current.status != nil %}<i class="fa fa-bell"></i> {{current.status}}{% endif %}
+          <i class="fa fa-calendar"></i> {{ event.pretty_dates }} <i class="fa fa-map-marker"></i> {{ event.location }}
+          {% if event.twitter != nil %}
+            <a href="https://www.twitter.com/{{event.twitter}}"><i class="fa fa-twitter"></i>{{event.twitter}}</a>
+          {% endif %}
+          {% if event.status != nil %}
+            <i class="fa fa-bell"></i> {{event.status}}
+          {% endif %}
       </li>
     {% endfor %}
   </ul>

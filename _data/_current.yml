@@ -1,0 +1,269 @@
+- name: STARWEST 2017
+  location: Anaheim, CA, USA
+  dates: "October 1-6, 2017"
+  url: https://starwest.techwell.com/
+  twitter: techwell
+  status: Registration is open
+
+- name: Quest for Quality 2017
+  location: Dublin, Ireland
+  dates: "October 4-5 2017"
+  url: http://questforquality.eu/
+  twitter: Quest_4_Quality
+  status: Registration is open
+
+- name: Luxembourg Software Testing Event 2017
+  location: Luxembourg-city, Luxembourg
+  dates: "October 5, 2017"
+  url: https://www.q-leap.eu/index.php/about-us/q-leap-events/231-luxembourg-software-testing-event-2017
+  twitter: qleap_sa
+  status: Registration is open
+
+- name: TestBash Germany 2017
+  location: Munich, Germany
+  dates: "October 6, 2017"
+  url: https://dojo.ministryoftesting.com/events/testbash-germany-2017
+  twitter: ministryoftest
+  status: Registration is open
+
+- name: Pacific Northwest Software Quality Conference (PNSQC) 2017
+  location: Portland, Oregon, USA
+  dates: "October 9-11, 2017"
+  url: http://www.pnsqc.org/
+  twitter: PNSQC
+  status: CFP is closed
+
+- name: SeleniumConf (SeConf) Berlin 2017
+  location: Berlin, Germany
+  dates: "October 9-11, 2017"
+  url: http://seleniumconf.de/
+  twitter: seleniumconf
+  status: Registration is open
+
+- name: Quality Jam London 2017
+  location: London, UK
+  dates: "October 11, 2017"
+  url: http://qualityjam.net/uk/
+  twitter: qasymphony
+  status: Registration is open
+
+- name: STARCanada 2017
+  location: Toronto, Canada
+  dates: "October 15-20, 2017"
+  url: http://starcanada.techwell.com/
+  twitter: techwell
+  status: Registration is open
+
+- name: Tricentis Accelerate 2017
+  location: Vienna, Austria
+  dates: "October 16-17, 2017"
+  url: https://www.tricentis.com/accelerate2017/
+  twitter: Tricentis
+  status: Registration is open
+
+- name: TestCon Vilnius 2017
+  location: Vilnius, Lithuania
+  dates: "October 18-20, 2017"
+  url: http://www.testcon.lt/
+  status: Registration is open
+
+- name: SoftTest 2017
+  location: Dublin, Ireland
+  dates: "October 19, 2017"
+  url: http://www.softwareskillnet.ie/events/81/softtest-conference-2017-smart-testing-in-technology-driven-world/
+  twitter: SoftTestIreland
+  status: Registration is open
+
+- name: Argentesting 2017
+  location: Buenos Aires, Argentina
+  dates: "October 23-24, 2017"
+  url: https://argentesting.com/
+  twitter: argentesting
+  status: CFP is closed
+
+- name: Test Dive Conference 2017
+  location: Kraków, Poland
+  dates: "October 24, 2017"
+  url: http://www.testdive.pl/
+  twitter: TestDiveKrakow
+  status: Registration closed
+
+- name: QA&Test 2017
+  location: Bilbao, Spain
+  dates: "October 25-27, 2017"
+  url: http://www.qatest.org/en/
+  twitter: qatest_bilbao
+  status: Registration is open
+
+- name: Belgium Testing Day (BTD) 2017
+  location: Brussels, Belgium
+  dates: "October 25, 2017"
+  url: http://btdconf.com/
+  twitter: btdconf
+  status: CFP is open
+
+- name: TestBash Manchester 2017
+  location: Manchester, UK
+  dates: "October 26-27, 2017"
+  url: https://dojo.ministryoftesting.com/events/testbash-manchester-2017
+  twitter: ministryoftest
+  status: Registration is open
+
+- name: EuroSTAR Software Testing Conference 2017
+  location: Copenhagen, Denmark
+  dates: "November 6-9, 2017"
+  url: https://conference.eurostarsoftwaretesting.com/
+  twitter: esconfs
+  status: Registration is open
+
+- name: TestBash Philadelphia 2017
+  location: Philadelphia, USA
+  dates: "November 9-10, 2017"
+  url: https://dojo.ministryoftesting.com/events/testbash-philadelphia-2017
+  twitter: ministryoftest
+  status: Registration is open
+
+- name: Hungarian Software Testing Forum (HUSTEF) 2017
+  location: Budapest, Hungary
+  dates: "November 13-15, 2017"
+  url: http://www.hustef.hu/
+  twitter: HunTestingBoard
+  status: Registration is open
+
+- name: Agile Testing Days (ATD) 2017
+  location: Potsdam, Germany
+  dates: "November 13-17, 2017"
+  url: http://agiletestingdays.com
+  twitter: AgileTD
+  status: Registration is open
+
+- name: Let's Test South Africa 2017
+  location: Magaliesberg, South Africa
+  dates: "November 26–28, 2017"
+  url: http://lets-test.com/?page_id=5304
+  twitter: LetsTest_Conf
+  status: Registration is open
+
+- name: Fall OnlineTestConf 17
+  location: worldwide
+  dates: "November 28-29, 2017"
+  url: http://onlinetestconf.com
+  twitter: OnlineTestConf
+  status: CFP is open
+
+- name: ConTEST NYC 2017
+  location: New York, NY, USA
+  dates: "November 29-December 1 2017"
+  url: http://testmastersacademy.org/?p=33
+  twitter: TestMastersAcad
+  status: CFP is open
+
+- name: Heisenbug Moscow 2017
+  location: Moscow, Russia
+  dates: "December 8-9, 2017"
+  url: https://heisenbug-moscow.ru/
+  twitter: HeisenbugConf
+  status: CFP is open
+
+- name: Automation Guild Online Conference 2018
+  location: Online
+  dates: 'January 8-10, 2018'
+  url: https://automationguild.com/
+  twitter: AutomationGuild
+  status: Registration is open
+
+- name: London Tester Tutorials 2018
+  location: London, England
+  dates: "January 29-31, 2018"
+  url: https://skillsmatter.com/conferences/8189-london-tester-tutorials-2018
+  status: Registration is open
+
+- name: European Testing Conference 2018
+  location: Amsterdam, Netherlands
+  dates: "February 19-20, 2018"
+  url: http://europeantestingconference.eu/2018/
+  twitter: EuroTestingConf
+  status: Registration is open
+
+- name: QA or the Highway 2018
+  location: Columbus, OH, USA
+  dates: "February 27, 2018"
+  url: https://qaorthehighway.com/call-for-speakers/
+  twitter: QAortheHighway
+  status: CFP open until October 15th
+
+- name: Conference for the Association for Software Testing (CASTx) 18
+  location: Melbourne, Australia
+  dates: "February 28 - March 1, 2018"
+  url: https://www.associationforsoftwaretesting.org/conference/castx18/
+  twitter: AST_News
+  status: Registration is open
+
+- name: SauceCon 2018
+  location: San Francisco, CA, USA
+  dates: "March 1-2, 2018"
+  url: http://saucecon.com/
+  twitter: saucelabs
+  status: CFP open until October 17th, 2017
+
+- name: UKSTAR Software Testing Conference 2018
+  location: London, England
+  dates: "March 12-13, 2018"
+  url: https://ukstar.eurostarsoftwaretesting.com/
+  twitter: ukstarconfs
+  status: Registration is open
+
+- name: TestBash Brighton 2018
+  location: Brighton, England
+  dates: "March 15-16, 2018"
+  url: https://www.ministryoftesting.com/2017/06/testbash-brighton-2018-come/
+  twitter: ministryoftest
+  status: CFP is open
+
+- name: STPCon Spring 2018
+  location: Newport Beach, CA
+  dates: "April 9-12, 2018"
+  url: http://www.stpcon.com/submit/
+  twitter: softwaretestpro
+  status: CFP is open
+
+- name: Quality Jam ATL 2018
+  location: Atlanta, Georgia, USA
+  dates: "April 10-11, 2018"
+  url: http://qualityjam.net/atlanta/
+  twitter: qasymphony
+  status: Registration is open
+
+- name: TestBash Netherlands 2018
+  location: Utrecht, Netherlands
+  dates: "April 12-13, 2018"
+  url: https://www.ministryoftesting.com/2017/07/testbash-netherlands-2018/
+  twitter: ministryoftest
+  status: CFP Open
+
+- name: TestBash Dublin 2018
+  location: Dublin, Ireland
+  dates: "May 18, 2018"
+  url: https://dojo.ministryoftesting.com/events/testbash-dublin-2018
+  twitter: ministryoftest
+  status: CFP Open
+
+- name: Nordic Testing Days (NTD) 2018
+  location: Tallinn, Estonia
+  dates: "June 6-8, 2018"
+  url: http://nordictestingdays.eu/
+  twitter: nordictestdays
+  status: CFP Open until October 31, 2017
+
+- name: International Symposium on Software Testing and Analysis (ISSTA) 2018
+  location: Amsterdam, Netherlands
+  dates: "July 16-22, 2018"
+  url: http://conf.researchr.org/home/issta-2018
+  twitter: issta_conf
+  status: CFP Open until January 29, 2018
+
+- name: CopenhagenContext 2018
+  location: Copenhagen, Denmark
+  dates: "September 20-21, 2018"
+  url: http://copenhagencontext.com/
+  twitter: CPHcontext
